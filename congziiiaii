@@ -1,0 +1,21 @@
+<div class="contact">
+  <h2>📬 Liên hệ với tôi</h2>
+  <p>Bạn có thể kết nối với tôi qua các nền tảng sau:</p>
+  <p>
+    📧 Email: <a href="mailto:emailcuaban@gmail.com">emailcuaban@gmail.com</a><br>
+    🌐 Facebook: <a href="https://facebook.com/ten-facebook-ban" target="_blank">facebook.com/ten-facebook-ban</a><br>
+    🐦 Twitter: <a href="https://twitter.com/ten-twitter-ban" target="_blank">twitter.com/ten-twitter-ban</a><br>
+    💼 GitHub: <a href="https://github.com/ten-github-ban" target="_blank">github.com/ten-github-ban</a><br>
+    📱 Zalo: <a href="https://zalo.me/0123456789" target="_blank">zalo.me/0123456789</a>
+  </p>
+</div>
+.contact a {
+  color: #0080ff;
+  text-decoration: none;
+  margin: 5px;
+  display: inline-block;
+}
+.contact a:hover {
+  text-decoration: underline;
+  color: #0056b3;
+}
