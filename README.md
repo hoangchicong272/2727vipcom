@@ -9,8 +9,7 @@
   <h1>Xin chào mọi người 👋</h1>
   <p>Đây là trang web đầu tiên của mình!</p>
 
-  <!-- Quảng cáo AdSense (nếu có) -->
-  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6760544738621960"
+ <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6760544738621960"
      crossorigin="anonymous"></script>
 </body>
 </html>
